@@ -1,0 +1,20 @@
+{
+  "name": "ejercicios",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto de Javascript con Node en Open Bootcamp",
+  "main": "ejercicio1.js",
+  "scripts": {
+    "start": "node ejercicio1.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pedro-Gagliardi/openbootcamp2.git"
+  },
+  "author": "Pedro Gagliardi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pedro-Gagliardi/openbootcamp2/issues"
+  },
+  "homepage": "https://github.com/Pedro-Gagliardi/openbootcamp2#readme"
+}
