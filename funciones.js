@@ -3,10 +3,8 @@
 ///////////////////////////////////////// Punto 1
 
 function verdadero() {
-    console.log(true);
+    return true;
 }
-
-verdadero();
 
 /////////////////////////////////////// Punto 2
 
@@ -19,18 +17,13 @@ const promesa = new Promise(() => {
 
 ////////////////////////////////////// Punto 3 NO ME SALIÓ =(
 
+    function* indicesPares() {
+        let i = 0;
+        while(true) {
+            yield i += 2;
+        }
+    }
 
-// function* generarIndicePar() {
-//     let i = 1;
-//     while (true) {
-//         i++
-//         if(i === 2) {
-//             return i;
-//         }
-//         yield i;
-//     }
-// }
-///////// 
 
 
 
