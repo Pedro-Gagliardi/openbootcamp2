@@ -1,0 +1,16 @@
+{
+  "name": "ejercicio11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "controller.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  }
+}
